@@ -6,4 +6,5 @@ package com.example.administrator.lingshi_weather;
 
 public class Province {
 
+
 }
