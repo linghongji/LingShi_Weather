@@ -5,8 +5,8 @@
     <version value="1"/>
 
     <list>
-        <mapping class="com.example.administrator.db.Province"/>
-        <mapping class="com.example.administrator.db.City"/>
-        <mapping class="com.example.administrator.db.County"/>
+        <mapping class="com.example.administrator.lingshi_weather.db.Province"/>
+        <mapping class="com.example.administrator.lingshi_weather.db.City"/>
+        <mapping class="com.example.administrator.lingshi_weather.db.County"/>
     </list>
 </litepal>
